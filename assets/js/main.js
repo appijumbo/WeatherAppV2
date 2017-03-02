@@ -196,7 +196,7 @@ function getWeather(latitude, longitude){
 
 function getFreegoip(){
     
-    var freegeoipURL = "http://freegeoip.net/json/";
+    var freegeoipURL = "https://freegeoip.net/json/";
     
             $.ajax({
             url: freegeoipURL,
