@@ -1,13 +1,14 @@
-# WeatherAppv1
-A weather app that uses geolocation, OpenWeatherMap api, Eric Flowers's weather icons, SaSS employing nested callbacks
+# WeatherAppv2  using freegoip
+A weather app that uses Freegoip for geolocation, OpenWeatherMap api and Eric Flowers's weather icons. Also employs SaSS and nested callbacks
 
 
-<a href="https://github.com/appijumbo/weatherAppv1/archive/master.zip"><img src="./extras/weather.jpg" width="600"></a>
+<a href="#"><img src="./extras/weather.jpg" width="600"></a>
 
-This weather app is also on [Codepen](http://codepen.io/tom_o/pen/XdXqOB)
+This weather app is also on [Codepen]()
 
 It was designed as part of the the [Free Code Camp course](https://www.freecodecamp.com/challenges/show-the-local-weather)
 
+The [previous version uses HTNL5 geolocation](https://github.com/appijumbo/weatherAppv1)
 
 ## Objectives
 
@@ -22,10 +23,6 @@ User Story
 
   * push a button to toggle between Fahrenheit and Celsius.
 
-
-## Note: This app wont work in Codepen or Github directly
-
-It's recommended to use the Open Weather API. However the Open Weather Api uses http not https.  This means that the <bold>geolocation won't work unfortunatly</bold>, so to use this app [you have to download this app as a zip](https://github.com/appijumbo/weatherAppv1/archive/master.zip)
 
 Should any geolocation problems arrise the console logs a specific error. However for the user this isn't helpful, thus an error like this will be output
 
