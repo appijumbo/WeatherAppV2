@@ -146,7 +146,7 @@ function getWeather(latitude, longitude){
 
     var freeCodCampApiKey = "7f41bf4f70baf6e27051593820b9c7e4";
 
-    var openWeatherMap = "http://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&APPID=" + freeCodCampApiKey;
+    var openWeatherMap = "https://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&APPID=" + freeCodCampApiKey;
 
 
         $.ajax({
