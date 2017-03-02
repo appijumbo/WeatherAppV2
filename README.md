@@ -2,7 +2,7 @@
 A weather app that uses Freegoip for geolocation, OpenWeatherMap api and Eric Flowers's weather icons. Also employs SaSS and nested callbacks
 
 
-<a href="#"><img src="./extras/weather.jpg" width="600"></a>
+<a href="https://appijumbo.github.io/WeatherAppV2/"><img src="./extras/weather.jpg" width="600"></a>
 
 This weather app is also on [Codepen]()
 
