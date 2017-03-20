@@ -8,7 +8,7 @@ This weather app is also on [Codepen]()
 
 It was designed as part of the the [Free Code Camp course](https://www.freecodecamp.com/challenges/show-the-local-weather)
 
-The [previous version uses HTNL5 geolocation](https://github.com/appijumbo/weatherAppv1)
+The [previous version uses HTML5 geolocation](https://github.com/appijumbo/weatherAppv1)
 
 ## Objectives
 
