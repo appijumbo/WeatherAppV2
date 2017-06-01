@@ -6,9 +6,9 @@ A weather app that uses Freegoip for geolocation, OpenWeatherMap api and Eric Fl
 
 This weather app is also on [Codepen]()
 
-#### Unfortunatly due to CORS (Cross-Origin Resource Sharing) restrictions Codepen dosnt allow the OpenWeatherMap API to work directly on the Codepen site. I have tried a number of work arounds including using [https://crossorigin.me/](https://crossorigin.me/) and [cors anywhere](https://cors-anywhere.herokuapp.com/) but they failed to function.
+##### Unfortunatly due to CORS (Cross-Origin Resource Sharing) restrictions Codepen dosnt allow the OpenWeatherMap API to work directly on the Codepen site. I have tried a number of work arounds including using [https://crossorigin.me/](https://crossorigin.me/) and [cors anywhere](https://cors-anywhere.herokuapp.com/) but they failed to function.
 
-An alternative would be to use another weather API such as the [APIXU](https://www.apixu.com/api.aspx) weather app, but I recomend downloading the app from Codepen or Github an running it from your own browser. 
+An alternative would be to use another weather API such as the [APIXU](https://www.apixu.com/api.aspx) weather app, but ##### I recomend downloading the app from Codepen or Github an running it from your own browser. 
 
 It was designed as part of the the [Free Code Camp course](https://www.freecodecamp.com/challenges/show-the-local-weather)
 
