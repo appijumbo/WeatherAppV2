@@ -4,7 +4,7 @@ A weather app that uses Freegoip for geolocation, OpenWeatherMap api and Eric Fl
 
 <a href="https://appijumbo.github.io/WeatherAppV2/"><img src="./extras/weather.jpg" width="600"></a>
 
-This weather app is also on [Codepen]()
+This weather app is also on [Codepen](https://codepen.io/tom_o/pen/WpqRPN)
 
 ##### Unfortunatly due to CORS (Cross-Origin Resource Sharing) restrictions Codepen dosnt allow the OpenWeatherMap API to work directly on the Codepen site. I have tried a number of work arounds including using [https://crossorigin.me/](https://crossorigin.me/) and [cors anywhere](https://cors-anywhere.herokuapp.com/) but they failed to function.
 
